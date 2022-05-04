@@ -1,1 +1,1 @@
-Learning: Front end web development.
+Learning: Web development.
